@@ -1,0 +1,7 @@
+C:\Users\silva\OneDrive\Área de Trabalho\Projetos\eCommerceAPI\E-Commerce-API\obj\Debug\net9.0\E-Commerce-API.csproj.AssemblyReference.cache
+C:\Users\silva\OneDrive\Área de Trabalho\Projetos\eCommerceAPI\E-Commerce-API\obj\Debug\net9.0\E-Commerce-API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silva\OneDrive\Área de Trabalho\Projetos\eCommerceAPI\E-Commerce-API\obj\Debug\net9.0\E-Commerce-API.AssemblyInfoInputs.cache
+C:\Users\silva\OneDrive\Área de Trabalho\Projetos\eCommerceAPI\E-Commerce-API\obj\Debug\net9.0\E-Commerce-API.AssemblyInfo.cs
+C:\Users\silva\OneDrive\Área de Trabalho\Projetos\eCommerceAPI\E-Commerce-API\obj\Debug\net9.0\E-Commerce-API.csproj.CoreCompileInputs.cache
+C:\Users\silva\OneDrive\Área de Trabalho\Projetos\eCommerceAPI\E-Commerce-API\obj\Debug\net9.0\E-Commerce-API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\silva\OneDrive\Área de Trabalho\Projetos\eCommerceAPI\E-Commerce-API\obj\Debug\net9.0\E-Commerce-API.MvcApplicationPartsAssemblyInfo.cache
